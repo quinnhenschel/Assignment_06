@@ -2,4 +2,4 @@
 
 This is a read me for Assignment 6
 
-this is me editing the read me
+this is me editing the read me.
