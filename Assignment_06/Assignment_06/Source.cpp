@@ -5,5 +5,6 @@ using namespace std;
 
 void main()
 {
-	cout << "Ali is the best prof ever and i love him so much :)";
+	cout << "Ali is the best prof ever and i love him so much :)\n";
+	cout << "Also thx for the class!\n";
 }
